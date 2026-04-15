@@ -1,0 +1,6 @@
+{
+  "name": "metageniec",
+  "description": "AI-powered metadata generator for stock photos, vectors, and videos. Automatically generate titles, descriptions, and keywords for Adobe Stock and other platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
